@@ -1,1 +1,1 @@
-# Advanced_Notes_Taking_App
+# Advanced_Notes_Taking_with_React.js_and_TypeScript
